@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Protect yourself from cyber scams",
+    "subtitle": "SafeNet uses AI to keep you safe from phishing links, fake UPI IDs, and scam messages.",
+    "links": {
+      "title": "Link Scanner",
+      "desc": "Check if a website link is safe before clicking.",
+      "btn": "Try Now"
+    },
+    "upi": {
+      "title": "UPI Guard",
+      "desc": "Verify an unknown UPI ID before sending money.",
+      "btn": "Try Now"
+    },
+    "sms": {
+      "title": "SMS Filter",
+      "desc": "Paste a message to detect hidden scam tricks.",
+      "btn": "Try Now"
+    },
+    "report": {
+      "title": "Community Shield",
+      "desc": "Report a scammer to protect others in India.",
+      "btn": "Report Scam"
+    }
+  }
+}
